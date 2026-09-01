@@ -19,13 +19,18 @@ updating.
 2. `generate_ics.py` turns those lessons into an `.ics` file at
    `docs/<ICS_TOKEN>.ics`. Cancelled lessons stay in the feed with
    `STATUS:CANCELLED` so they show up (crossed out) instead of just vanishing.
-3. `.github/workflows/sync.yml` runs this once a day via GitHub Actions and
-   commits the updated feed. GitHub Pages serves `docs/`, so the feed is
-   reachable at:
+3. A systemd timer on the VPS (`schoolcalendar-sync.timer`, 04:00 Europe/Warsaw
+   daily) runs `sync.sh`, which does the above and commits + pushes the
+   updated feed. GitHub Pages serves `docs/`, so the feed is reachable at:
 
    ```
    https://<your-github-username>.github.io/schoolcalendar/<ICS_TOKEN>.ics
    ```
+
+   This used to run on GitHub Actions, but the school's MobiDziennik instance
+   sits behind Cloudflare, which blocks GitHub Actions' runner IPs (403 on
+   login) — the exact same code works fine from a non-datacenter IP, so the
+   sync now runs from the VPS instead.
 
 ## Setup
 
@@ -39,16 +44,24 @@ updating.
    schedule. Don't post it publicly.
 
 3. **Enable GitHub Pages** on this repo: Settings → Pages → Deploy from branch →
-   branch `main`, folder `/docs`.
+   branch `master`, folder `/docs`.
 
-4. **Add repo secrets** (Settings → Secrets and variables → Actions):
-   - `MOBIDZIENNIK_SCHOOL_ID`
-   - `MOBIDZIENNIK_USER`
-   - `MOBIDZIENNIK_PASS`
-   - `ICS_TOKEN`
+4. **Set up the sync host** (currently a VPS, not GitHub Actions — see note
+   above):
+   - Clone the repo, create a venv, `pip install -r requirements.txt`.
+   - Fill in `.env` (`cp .env.example .env`) with `MOBIDZIENNIK_SCHOOL_ID`,
+     `MOBIDZIENNIK_USER`, `MOBIDZIENNIK_PASS`, `ICS_TOKEN`; `chmod 600 .env`.
+   - Push access needs its own credentials — this repo uses a repo-scoped SSH
+     deploy key (write access) rather than a personal token, with an
+     `~/.ssh/config` `Host` alias pointing `git@<alias>` at that key, and the
+     `origin` remote set to `git@<alias>:<owner>/<repo>.git`.
+   - Install `schoolcalendar-sync.service` + `schoolcalendar-sync.timer` in
+     `/etc/systemd/system/` (`Type=oneshot`, `EnvironmentFile=.env`,
+     `ExecStart=sync.sh`; timer `OnCalendar=*-*-* 04:00:00 Europe/Warsaw`),
+     then `systemctl daemon-reload && systemctl enable --now schoolcalendar-sync.timer`.
 
-5. **Run the workflow once manually** (Actions → Sync MobiDziennik to calendar
-   feed → Run workflow) to generate the first feed file.
+5. **Run it once manually** (`systemctl start schoolcalendar-sync.service`, or
+   just `./sync.sh` locally) to generate the first feed file.
 
 6. **Subscribe to the feed**:
    - **Apple Calendar**: File → New Calendar Subscription → paste the feed URL.
