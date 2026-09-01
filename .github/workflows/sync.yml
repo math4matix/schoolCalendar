@@ -1,0 +1,37 @@
+name: Sync MobiDziennik to calendar feed
+
+on:
+  schedule:
+    - cron: "0 5 * * *"  # ~06:00/07:00 Europe/Warsaw depending on DST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate ICS feed
+        env:
+          MOBIDZIENNIK_SCHOOL_ID: ${{ secrets.MOBIDZIENNIK_SCHOOL_ID }}
+          MOBIDZIENNIK_USER: ${{ secrets.MOBIDZIENNIK_USER }}
+          MOBIDZIENNIK_PASS: ${{ secrets.MOBIDZIENNIK_PASS }}
+          ICS_TOKEN: ${{ secrets.ICS_TOKEN }}
+        run: python generate_ics.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet && echo "No changes" || git commit -m "Update lesson calendar feed"
+          git push
