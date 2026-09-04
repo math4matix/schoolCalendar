@@ -167,17 +167,6 @@ LOCATION:104 polonistyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:projektowanie i inżynieria oprogramowania
-DTSTART;TZID=Europe/Warsaw:20260903T115500
-DTEND;TZID=Europe/Warsaw:20260903T124000
-DTSTAMP:20260903T095500Z
-UID:d40175b954c5401a@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Jurczyk-Maciuszonek Magdalena\nKlasa/grupa: 3 PT a
- 2\nNumer lekcji: 6
-LOCATION:24 prac inform
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:projektowanie i administrowanie bazami danych
 DTSTART;TZID=Europe/Warsaw:20260904T115500
 DTEND;TZID=Europe/Warsaw:20260904T124000
@@ -196,17 +185,6 @@ DTSTAMP:20260902T110000Z
 UID:e8d179add1e710cb@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 7
 LOCATION:015 prac inform
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:projektowanie i inżynieria oprogramowania
-DTSTART;TZID=Europe/Warsaw:20260903T130000
-DTEND;TZID=Europe/Warsaw:20260903T134500
-DTSTAMP:20260903T110000Z
-UID:703f4977f3867aaf@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Jurczyk-Maciuszonek Magdalena\nKlasa/grupa: 3 PT a
- 2\nNumer lekcji: 7
-LOCATION:24 prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -318,6 +296,24 @@ DTEND;TZID=Europe/Warsaw:20260901T104500
 DTSTAMP:20260901T080000Z
 UID:c5cd9b867517618a@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 4
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: projektowanie i inżynieria oprogramowania
+DTSTART;TZID=Europe/Warsaw:20260903T115500
+DTEND;TZID=Europe/Warsaw:20260903T124000
+DTSTAMP:20260903T095500Z
+UID:d40175b954c5401a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 6
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: projektowanie i inżynieria oprogramowania
+DTSTART;TZID=Europe/Warsaw:20260903T130000
+DTEND;TZID=Europe/Warsaw:20260903T134500
+DTSTAMP:20260903T110000Z
+UID:703f4977f3867aaf@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 7
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
