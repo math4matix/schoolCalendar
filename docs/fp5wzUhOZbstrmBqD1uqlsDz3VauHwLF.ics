@@ -329,34 +329,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:programowanie aplikacji internetowych
-DTSTART;TZID=Europe/Warsaw:20260908T072000
-DTEND;TZID=Europe/Warsaw:20260908T080500
-DTSTAMP:20260908T052000Z
-UID:1d6a08e30b4129d7@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
- kcji: 1
-LOCATION:018 prac inform
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:biologia
 DTSTART;TZID=Europe/Warsaw:20260909T072000
 DTEND;TZID=Europe/Warsaw:20260909T080500
 DTSTAMP:20260909T052000Z
-UID:cb5307c288fe3506@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Czosnowski Mikołaj\nKlasa/grupa: 3 PT\nNumer lekc
- ji: 1
-LOCATION:201 biologiczna
+UID:fa07d5b2cc67cc78@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
+ kcji: 1
+LOCATION:015 prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:informatyka
+SUMMARY:historia
 DTSTART;TZID=Europe/Warsaw:20260911T072000
 DTEND;TZID=Europe/Warsaw:20260911T080500
 DTSTAMP:20260911T052000Z
-UID:36bbde77d7a1b365@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 1
-LOCATION:018 prac inform
+UID:6890b8d24e3586c5@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 1
+LOCATION:208 historyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +388,7 @@ DTSTAMP:20260910T061000Z
 UID:f150012500873e92@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
  PT h1\nNumer lekcji: 2
-LOCATION:107 polonistyczna
+LOCATION:109 matematyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -425,14 +414,13 @@ LOCATION:22 prac foto/ogólna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:programowanie obiektowe
+SUMMARY:edukacja obywatelska
 DTSTART;TZID=Europe/Warsaw:20260908T090500
 DTEND;TZID=Europe/Warsaw:20260908T095000
 DTSTAMP:20260908T070500Z
-UID:02a520540b430436@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
- i: 3
-LOCATION:016 prac inform
+UID:2ff23e4a33dde704@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 3
+LOCATION:022 multimedialna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -454,7 +442,7 @@ DTSTAMP:20260910T070500Z
 UID:a130a2f79aa6c095@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
  PT h1\nNumer lekcji: 3
-LOCATION:107 polonistyczna
+LOCATION:109 matematyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -511,13 +499,13 @@ LOCATION:022 multimedialna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:historia
+SUMMARY:informatyka
 DTSTART;TZID=Europe/Warsaw:20260911T100000
 DTEND;TZID=Europe/Warsaw:20260911T104500
 DTSTAMP:20260911T080000Z
-UID:c1acc8ef33654638@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 4
-LOCATION:208 historyczna
+UID:41f307adda75cf33@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 4
+LOCATION:018 prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -528,7 +516,7 @@ DTSTAMP:20260907T090000Z
 UID:29f0026e3f1a22fb@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Wabich Joanna\nKlasa/grupa: 3 PT a2\nNumer lekcji:
   5
-LOCATION:101 prac inform
+LOCATION:24 prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -550,7 +538,7 @@ DTSTAMP:20260910T090000Z
 UID:4fdf8736843492f9@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
  kcji: 5
-LOCATION:016 prac inform
+LOCATION:102b prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -583,7 +571,7 @@ DTSTAMP:20260909T095500Z
 UID:207e14e4e8b18dea@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
  ji: 6
-LOCATION:104 polonistyczna
+LOCATION:103 polonistyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -714,13 +702,14 @@ LOCATION:siłownia_2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:edukacja obywatelska
+SUMMARY:biologia
 DTSTART;TZID=Europe/Warsaw:20260910T150000
 DTEND;TZID=Europe/Warsaw:20260910T154500
 DTSTAMP:20260910T130000Z
-UID:6170278a5c4fd768@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 9
-LOCATION:106 historyczna
+UID:a814f8f911d5904c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Czosnowski Mikołaj\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 9
+LOCATION:201 biologiczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -731,6 +720,17 @@ DTSTAMP:20260911T130000Z
 UID:6145d6db99a81579@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Proch Jakub\nKlasa/grupa: 3 PT\nNumer lekcji: 9
 LOCATION:104 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie obiektowe
+DTSTART;TZID=Europe/Warsaw:20260909T155500
+DTEND;TZID=Europe/Warsaw:20260909T164000
+DTSTAMP:20260909T135500Z
+UID:9f19ece2e6913195@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
+ i: 10
+LOCATION:111 prac inform
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
