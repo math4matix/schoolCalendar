@@ -326,17 +326,6 @@ LOCATION:201 biologiczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:programowanie obiektowe
-DTSTART;TZID=Europe/Warsaw:20260909T155500
-DTEND;TZID=Europe/Warsaw:20260909T164000
-DTSTAMP:20260909T135500Z
-UID:9f19ece2e6913195@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
- i: 10
-LOCATION:111 prac inform
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ODWOŁANE: język polski
 DTSTART;TZID=Europe/Warsaw:20260911T081000
 DTEND;TZID=Europe/Warsaw:20260911T085500
@@ -407,6 +396,17 @@ DTSTAMP:20260911T130000Z
 UID:6145d6db99a81579@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 9
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie obiektowe
+DTSTART;TZID=Europe/Warsaw:20260909T155500
+DTEND;TZID=Europe/Warsaw:20260909T164000
+DTSTAMP:20260909T135500Z
+UID:9f19ece2e6913195@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
+ i: 10
+LOCATION:018 prac inform
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:wychowanie fizyczne
