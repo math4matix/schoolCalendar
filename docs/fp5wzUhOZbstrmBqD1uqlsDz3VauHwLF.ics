@@ -326,76 +326,92 @@ LOCATION:201 biologiczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: język polski
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T081000
 DTEND;TZID=Europe/Warsaw:20260911T085500
 DTSTAMP:20260911T061000Z
-UID:c2155b1f3973ec88@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 2
-STATUS:CANCELLED
+UID:582851e5957d496c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  2
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: język polski
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T090500
 DTEND;TZID=Europe/Warsaw:20260911T095000
 DTSTAMP:20260911T070500Z
-UID:8a1540c32fe0b61c@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 3
-STATUS:CANCELLED
+UID:65ca8aa68b50f52c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  3
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: informatyka
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T100000
 DTEND;TZID=Europe/Warsaw:20260911T104500
 DTSTAMP:20260911T080000Z
-UID:41f307adda75cf33@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 4
-STATUS:CANCELLED
+UID:a5ee312ee891ae58@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  4
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: projektowanie i administrowanie bazami danych
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T110000
 DTEND;TZID=Europe/Warsaw:20260911T114500
 DTSTAMP:20260911T090000Z
-UID:670f15f1bbaab234@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 5
-STATUS:CANCELLED
+UID:fe35d0b2c55b5250@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  5
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: projektowanie i administrowanie bazami danych
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T115500
 DTEND;TZID=Europe/Warsaw:20260911T124000
 DTSTAMP:20260911T095500Z
-UID:7ffac6b8deeeba65@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 6
-STATUS:CANCELLED
+UID:b2a7079f48dc673f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  6
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: matematyka
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T130000
 DTEND;TZID=Europe/Warsaw:20260911T134500
 DTSTAMP:20260911T110000Z
-UID:902fd00b133620b7@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 7
-STATUS:CANCELLED
+UID:2d59f3d1fe515e73@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  7
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: wychowanie fizyczne
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T140500
 DTEND;TZID=Europe/Warsaw:20260911T145000
 DTSTAMP:20260911T120500Z
-UID:f1c18c416410c218@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 8
-STATUS:CANCELLED
+UID:55a8477526f5bc93@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  8
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ODWOŁANE: religia
+SUMMARY:ZASTĘPSTWO: zajęcia z wychowawcą
 DTSTART;TZID=Europe/Warsaw:20260911T150000
 DTEND;TZID=Europe/Warsaw:20260911T154500
 DTSTAMP:20260911T130000Z
-UID:6145d6db99a81579@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 9
-STATUS:CANCELLED
+UID:35518117ffef430b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  9
+LOCATION:@
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:programowanie obiektowe
