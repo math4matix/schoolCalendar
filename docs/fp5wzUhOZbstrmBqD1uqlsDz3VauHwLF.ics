@@ -264,16 +264,6 @@ LOCATION:015 prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:matematyka
-DTSTART;TZID=Europe/Warsaw:20260918T130000
-DTEND;TZID=Europe/Warsaw:20260918T134500
-DTSTAMP:20260918T110000Z
-UID:bc8ad034dcea7b28@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 7
-LOCATION:206 matematyczna
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:informatyka
 DTSTART;TZID=Europe/Warsaw:20260916T140500
 DTEND;TZID=Europe/Warsaw:20260916T145000
@@ -410,6 +400,15 @@ UID:439a55624ca3ff8f@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT a2\nNumer lekcji: 7
 LOCATION:015 prac inform
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: matematyka
+DTSTART;TZID=Europe/Warsaw:20260918T130000
+DTEND;TZID=Europe/Warsaw:20260918T134500
+DTSTAMP:20260918T110000Z
+UID:bc8ad034dcea7b28@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 7
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:wychowanie fizyczne
