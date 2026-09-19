@@ -454,16 +454,6 @@ LOCATION:208 historyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:edukacja zdrowotna
-DTSTART;TZID=Europe/Warsaw:20260921T081000
-DTEND;TZID=Europe/Warsaw:20260921T085500
-DTSTAMP:20260921T061000Z
-UID:0a3d7e312b08f8cd@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Gołuch Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 2
-LOCATION:19
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:język angielski
 DTSTART;TZID=Europe/Warsaw:20260922T081000
 DTEND;TZID=Europe/Warsaw:20260922T085500
@@ -826,5 +816,14 @@ UID:c9e25f8d0cf3cd14@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Proch Jakub\nKlasa/grupa: 3 PT\nNumer lekcji: 9
 LOCATION:104 polonistyczna
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: edukacja zdrowotna
+DTSTART;TZID=Europe/Warsaw:20260921T081000
+DTEND;TZID=Europe/Warsaw:20260921T085500
+DTSTAMP:20260921T061000Z
+UID:0a3d7e312b08f8cd@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 2
+STATUS:CANCELLED
 END:VEVENT
 END:VCALENDAR
