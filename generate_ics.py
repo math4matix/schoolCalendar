@@ -33,7 +33,7 @@ def lesson_to_event(lesson: Lesson, school_id: str) -> Event:
 
     subject = lesson.subject or "Lekcja"
     if lesson.type == LessonType.CANCELLED:
-        event.add("summary", f"ODWOŁANE: {subject}")
+        event.add("summary", subject)  # Apple Calendar adds its own "CANCELED:" from STATUS
         event.add("status", "CANCELLED")
     elif lesson.type == LessonType.CHANGE:
         event.add("summary", f"ZASTĘPSTWO: {subject}")
