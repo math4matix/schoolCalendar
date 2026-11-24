@@ -18,7 +18,8 @@ updating.
    lesson is normal, a substitution, or cancelled.
 2. `generate_ics.py` turns those lessons into an `.ics` file at
    `docs/<ICS_TOKEN>.ics`. Cancelled lessons stay in the feed with
-   `STATUS:CANCELLED` so they show up (crossed out) instead of just vanishing.
+   `STATUS:CANCELLED` so your calendar app marks them as cancelled (e.g. Apple
+   Calendar shows a "CANCELED:" prefix) instead of them just vanishing.
 3. A systemd timer on the VPS (`schoolcalendar-sync.timer`, 04:00 Europe/Warsaw
    daily) runs `sync.sh`, which does the above and commits + pushes the
    updated feed. GitHub Pages serves `docs/`, so the feed is reachable at:
@@ -51,6 +52,7 @@ updating.
    - Clone the repo, create a venv, `pip install -r requirements.txt`.
    - Fill in `.env` (`cp .env.example .env`) with `MOBIDZIENNIK_SCHOOL_ID`,
      `MOBIDZIENNIK_USER`, `MOBIDZIENNIK_PASS`, `ICS_TOKEN`; `chmod 600 .env`.
+     Optionally set `ICS_OUTPUT_DIR` (default `docs`).
    - Push access needs its own credentials — this repo uses a repo-scoped SSH
      deploy key (write access) rather than a personal token, with an
      `~/.ssh/config` `Host` alias pointing `git@<alias>` at that key, and the
