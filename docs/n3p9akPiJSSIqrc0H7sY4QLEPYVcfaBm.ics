@@ -1,0 +1,833 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schoolcalendar//mobidziennik-sync//PL
+METHOD:PUBLISH
+X-WR-CALNAME:Plan lekcji
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:wychowanie fizyczne
+DTSTART;TZID=Europe/Warsaw:20261123T072000
+DTEND;TZID=Europe/Warsaw:20261123T080500
+DTSTAMP:20261123T062000Z
+UID:a3adfddcb709f037@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Konieczny Maciej\nKlasa/grupa: 3 PT\nNumer lekcji:
+  1
+LOCATION:sala gimnastyczna_1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:biologia
+DTSTART;TZID=Europe/Warsaw:20261124T072000
+DTEND;TZID=Europe/Warsaw:20261124T080500
+DTSTAMP:20261124T062000Z
+UID:405dda029242c510@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Czosnowski Mikołaj\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 1
+LOCATION:201 biologiczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261125T072000
+DTEND;TZID=Europe/Warsaw:20261125T080500
+DTSTAMP:20261125T062000Z
+UID:c2968358f0cb60bb@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
+ kcji: 1
+LOCATION:102b prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:edukacja zdrowotna
+DTSTART;TZID=Europe/Warsaw:20261123T081000
+DTEND;TZID=Europe/Warsaw:20261123T085500
+DTSTAMP:20261123T071000Z
+UID:389659c5fd313b06@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Gołuch Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 2
+LOCATION:19
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:historia
+DTSTART;TZID=Europe/Warsaw:20261124T081000
+DTEND;TZID=Europe/Warsaw:20261124T085500
+DTSTAMP:20261124T071000Z
+UID:54c7d39c485da05a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 2
+LOCATION:208 historyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261125T081000
+DTEND;TZID=Europe/Warsaw:20261125T085500
+DTSTAMP:20261125T071000Z
+UID:3bee7ef626b462db@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
+ kcji: 2
+LOCATION:102b prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język hiszpański
+DTSTART;TZID=Europe/Warsaw:20261126T081000
+DTEND;TZID=Europe/Warsaw:20261126T085500
+DTSTAMP:20261126T071000Z
+UID:1a0debed9c305f8c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
+ PT h1\nNumer lekcji: 2
+LOCATION:109 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język polski
+DTSTART;TZID=Europe/Warsaw:20261127T081000
+DTEND;TZID=Europe/Warsaw:20261127T085500
+DTSTAMP:20261127T071000Z
+UID:78992cc091b0fb2b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 2
+LOCATION:103 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:geografia
+DTSTART;TZID=Europe/Warsaw:20261123T090500
+DTEND;TZID=Europe/Warsaw:20261123T095000
+DTSTAMP:20261123T080500Z
+UID:27a9f5d5fc2da9f3@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  3
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:edukacja obywatelska
+DTSTART;TZID=Europe/Warsaw:20261124T090500
+DTEND;TZID=Europe/Warsaw:20261124T095000
+DTSTAMP:20261124T080500Z
+UID:9093e8fce25b972a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 3
+LOCATION:208 historyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie obiektowe
+DTSTART;TZID=Europe/Warsaw:20261125T090500
+DTEND;TZID=Europe/Warsaw:20261125T095000
+DTSTAMP:20261125T080500Z
+UID:e6fab98972c982df@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
+ i: 3
+LOCATION:028 prac sieci
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język hiszpański
+DTSTART;TZID=Europe/Warsaw:20261126T090500
+DTEND;TZID=Europe/Warsaw:20261126T095000
+DTSTAMP:20261126T080500Z
+UID:dc450da1a2a59ebd@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
+ PT h1\nNumer lekcji: 3
+LOCATION:109 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język polski
+DTSTART;TZID=Europe/Warsaw:20261127T090500
+DTEND;TZID=Europe/Warsaw:20261127T095000
+DTSTAMP:20261127T080500Z
+UID:db946c61c26fe209@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 3
+LOCATION:103 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:fizyka
+DTSTART;TZID=Europe/Warsaw:20261123T100000
+DTEND;TZID=Europe/Warsaw:20261123T104500
+DTSTAMP:20261123T090000Z
+UID:937334c56d83068e@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Pacanowski Sebastian\nKlasa/grupa: 3 PT\nNumer lek
+ cji: 4
+LOCATION:210 fizyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:informatyka
+DTSTART;TZID=Europe/Warsaw:20261127T100000
+DTEND;TZID=Europe/Warsaw:20261127T104500
+DTSTAMP:20261127T090000Z
+UID:0c4bbd85545e3555@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 4
+LOCATION:018 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie obiektowe
+DTSTART;TZID=Europe/Warsaw:20261123T110000
+DTEND;TZID=Europe/Warsaw:20261123T114500
+DTSTAMP:20261123T100000Z
+UID:5f7f846c388b9d6f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
+ i: 5
+LOCATION:016 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:informatyka
+DTSTART;TZID=Europe/Warsaw:20261125T110000
+DTEND;TZID=Europe/Warsaw:20261125T114500
+DTSTAMP:20261125T100000Z
+UID:2682f6fb6d0422ca@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 5
+LOCATION:015 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i administrowanie bazami danych
+DTSTART;TZID=Europe/Warsaw:20261127T110000
+DTEND;TZID=Europe/Warsaw:20261127T114500
+DTSTAMP:20261127T100000Z
+UID:9c0b3686bffc050e@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wojtyniak Łukasz\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 5
+LOCATION:016 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji desktopowych
+DTSTART;TZID=Europe/Warsaw:20261123T115500
+DTEND;TZID=Europe/Warsaw:20261123T124000
+DTSTAMP:20261123T105500Z
+UID:ed1ea31ef3dcc09e@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stolarski Damian\nKlasa/grupa: 3 PT a2\nNumer lekc
+ ji: 6
+LOCATION:014 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język polski
+DTSTART;TZID=Europe/Warsaw:20261125T115500
+DTEND;TZID=Europe/Warsaw:20261125T124000
+DTSTAMP:20261125T105500Z
+UID:4ce4cbc78286dced@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 6
+LOCATION:108 językowa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i administrowanie bazami danych
+DTSTART;TZID=Europe/Warsaw:20261127T115500
+DTEND;TZID=Europe/Warsaw:20261127T124000
+DTSTAMP:20261127T105500Z
+UID:79a29d20453e373b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wojtyniak Łukasz\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 6
+LOCATION:016 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji desktopowych
+DTSTART;TZID=Europe/Warsaw:20261123T130000
+DTEND;TZID=Europe/Warsaw:20261123T134500
+DTSTAMP:20261123T120000Z
+UID:c2a7205b8724e80f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stolarski Damian\nKlasa/grupa: 3 PT a2\nNumer lekc
+ ji: 7
+LOCATION:014 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261125T130000
+DTEND;TZID=Europe/Warsaw:20261125T134500
+DTSTAMP:20261125T120000Z
+UID:696a3f4949905025@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wabich Joanna\nKlasa/grupa: 3 PT a2\nNumer lekcji:
+  7
+LOCATION:102a prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i inżynieria oprogramowania
+DTSTART;TZID=Europe/Warsaw:20261126T130000
+DTEND;TZID=Europe/Warsaw:20261126T134500
+DTSTAMP:20261126T120000Z
+UID:e9d19d902180a64a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Jurczyk-Maciuszonek Magdalena\nKlasa/grupa: 3 PT a
+ 2\nNumer lekcji: 7
+LOCATION:24 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:matematyka
+DTSTART;TZID=Europe/Warsaw:20261127T130000
+DTEND;TZID=Europe/Warsaw:20261127T134500
+DTSTAMP:20261127T120000Z
+UID:d4ad06257159e30c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 7
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zajęcia z wychowawcą
+DTSTART;TZID=Europe/Warsaw:20261125T140500
+DTEND;TZID=Europe/Warsaw:20261125T145000
+DTSTAMP:20261125T130500Z
+UID:a0c3dd42ffe20e0f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  8
+LOCATION:22 prac foto/ogólna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:chemia
+DTSTART;TZID=Europe/Warsaw:20261126T140500
+DTEND;TZID=Europe/Warsaw:20261126T145000
+DTSTAMP:20261126T130500Z
+UID:04756c60d79c29be@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Janeba-Bartoszewicz Edyta\nKlasa/grupa: 3 PT\nNume
+ r lekcji: 8
+LOCATION:211 chemiczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wychowanie fizyczne
+DTSTART;TZID=Europe/Warsaw:20261127T140500
+DTEND;TZID=Europe/Warsaw:20261127T145000
+DTSTAMP:20261127T130500Z
+UID:4409621895c10907@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Konieczny Maciej\nKlasa/grupa: 3 PT\nNumer lekcji:
+  8
+LOCATION:sala gimnastyczna_1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wychowanie fizyczne
+DTSTART;TZID=Europe/Warsaw:20261125T150000
+DTEND;TZID=Europe/Warsaw:20261125T154500
+DTSTAMP:20261125T140000Z
+UID:ef7f2ba0e174bc16@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Konieczny Maciej\nKlasa/grupa: 3 PT\nNumer lekcji:
+  9
+LOCATION:siłownia_2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język angielski
+DTSTART;TZID=Europe/Warsaw:20261126T150000
+DTEND;TZID=Europe/Warsaw:20261126T154500
+DTSTAMP:20261126T140000Z
+UID:5e14f37398d90291@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Kudlińska Monika\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 9
+LOCATION:022 multimedialna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:religia
+DTSTART;TZID=Europe/Warsaw:20261127T150000
+DTEND;TZID=Europe/Warsaw:20261127T154500
+DTSTAMP:20261127T140000Z
+UID:5a6ad205f53520d6@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Proch Jakub\nKlasa/grupa: 3 3PT r1 3IT r1\nNumer l
+ ekcji: 9
+LOCATION:104 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: matematyka
+DTSTART;TZID=Europe/Warsaw:20261123T140500
+DTEND;TZID=Europe/Warsaw:20261123T145000
+DTSTAMP:20261123T130500Z
+UID:14ee0d1ed4714b22@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 8
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: matematyka
+DTSTART;TZID=Europe/Warsaw:20261123T150000
+DTEND;TZID=Europe/Warsaw:20261123T154500
+DTSTAMP:20261123T140000Z
+UID:b6053b0e546014a6@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 9
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: matematyka
+DTSTART;TZID=Europe/Warsaw:20261124T100000
+DTEND;TZID=Europe/Warsaw:20261124T104500
+DTSTAMP:20261124T090000Z
+UID:d2eff4346e61b772@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 4
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZASTĘPSTWO: informatyka
+DTSTART;TZID=Europe/Warsaw:20261125T100000
+DTEND;TZID=Europe/Warsaw:20261125T104500
+DTSTAMP:20261125T090000Z
+UID:aee365b9bdb69e76@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 4
+LOCATION:018 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261126T100000
+DTEND;TZID=Europe/Warsaw:20261126T104500
+DTSTAMP:20261126T090000Z
+UID:e302d0bdb6d96e3b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 4
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: język angielski
+DTSTART;TZID=Europe/Warsaw:20261126T110000
+DTEND;TZID=Europe/Warsaw:20261126T114500
+DTSTAMP:20261126T100000Z
+UID:3145a16a181fdac3@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 5
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: projektowanie i inżynieria oprogramowania
+DTSTART;TZID=Europe/Warsaw:20261126T115500
+DTEND;TZID=Europe/Warsaw:20261126T124000
+DTSTAMP:20261126T105500Z
+UID:5a9b6f468685c1f8@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT a2\nNumer lekcji: 6
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODWOŁANE: informatyka
+DTSTART;TZID=Europe/Warsaw:20261127T072000
+DTEND;TZID=Europe/Warsaw:20261127T080500
+DTSTAMP:20261127T062000Z
+UID:111536437dacd637@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 PT\nNumer lekcji: 1
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wychowanie fizyczne
+DTSTART;TZID=Europe/Warsaw:20261130T072000
+DTEND;TZID=Europe/Warsaw:20261130T080500
+DTSTAMP:20261130T062000Z
+UID:ac17a45b203fb05a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Konieczny Maciej\nKlasa/grupa: 3 PT\nNumer lekcji:
+  1
+LOCATION:sala gimnastyczna_1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:biologia
+DTSTART;TZID=Europe/Warsaw:20261201T072000
+DTEND;TZID=Europe/Warsaw:20261201T080500
+DTSTAMP:20261201T062000Z
+UID:632d0551f990986a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Czosnowski Mikołaj\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 1
+LOCATION:201 biologiczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261202T072000
+DTEND;TZID=Europe/Warsaw:20261202T080500
+DTSTAMP:20261202T062000Z
+UID:6b57eb70a59a52c9@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
+ kcji: 1
+LOCATION:102b prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:informatyka
+DTSTART;TZID=Europe/Warsaw:20261204T072000
+DTEND;TZID=Europe/Warsaw:20261204T080500
+DTSTAMP:20261204T062000Z
+UID:c35fdfb0734325ae@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 1
+LOCATION:018 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:edukacja zdrowotna
+DTSTART;TZID=Europe/Warsaw:20261130T081000
+DTEND;TZID=Europe/Warsaw:20261130T085500
+DTSTAMP:20261130T071000Z
+UID:ff1e2e93b5fdc92a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Gołuch Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 2
+LOCATION:19
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:historia
+DTSTART;TZID=Europe/Warsaw:20261201T081000
+DTEND;TZID=Europe/Warsaw:20261201T085500
+DTSTAMP:20261201T071000Z
+UID:02be88fdfb8014f7@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 2
+LOCATION:208 historyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261202T081000
+DTEND;TZID=Europe/Warsaw:20261202T085500
+DTSTAMP:20261202T071000Z
+UID:e8810b813b7aac7b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Frąckowiak Damian\nKlasa/grupa: 3 PT a2\nNumer le
+ kcji: 2
+LOCATION:102b prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język hiszpański
+DTSTART;TZID=Europe/Warsaw:20261203T081000
+DTEND;TZID=Europe/Warsaw:20261203T085500
+DTSTAMP:20261203T071000Z
+UID:4b9ebd2a32c382d8@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
+ PT h1\nNumer lekcji: 2
+LOCATION:109 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język polski
+DTSTART;TZID=Europe/Warsaw:20261204T081000
+DTEND;TZID=Europe/Warsaw:20261204T085500
+DTSTAMP:20261204T071000Z
+UID:19c295652b1dd96d@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 2
+LOCATION:103 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:geografia
+DTSTART;TZID=Europe/Warsaw:20261130T090500
+DTEND;TZID=Europe/Warsaw:20261130T095000
+DTSTAMP:20261130T080500Z
+UID:5595ba9446c58989@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  3
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:edukacja obywatelska
+DTSTART;TZID=Europe/Warsaw:20261201T090500
+DTEND;TZID=Europe/Warsaw:20261201T095000
+DTSTAMP:20261201T080500Z
+UID:6be5f13ef87b3e1f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Osiński Jacek\nKlasa/grupa: 3 PT\nNumer lekcji: 3
+LOCATION:208 historyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie obiektowe
+DTSTART;TZID=Europe/Warsaw:20261202T090500
+DTEND;TZID=Europe/Warsaw:20261202T095000
+DTSTAMP:20261202T080500Z
+UID:5a76e03107634066@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
+ i: 3
+LOCATION:028 prac sieci
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język hiszpański
+DTSTART;TZID=Europe/Warsaw:20261203T090500
+DTEND;TZID=Europe/Warsaw:20261203T095000
+DTSTAMP:20261203T080500Z
+UID:e0c1f401cfc3127f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
+ PT h1\nNumer lekcji: 3
+LOCATION:109 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język polski
+DTSTART;TZID=Europe/Warsaw:20261204T090500
+DTEND;TZID=Europe/Warsaw:20261204T095000
+DTSTAMP:20261204T080500Z
+UID:da4f80a341476ce6@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 3
+LOCATION:103 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:fizyka
+DTSTART;TZID=Europe/Warsaw:20261130T100000
+DTEND;TZID=Europe/Warsaw:20261130T104500
+DTSTAMP:20261130T090000Z
+UID:6be706338e9ab794@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Pacanowski Sebastian\nKlasa/grupa: 3 PT\nNumer lek
+ cji: 4
+LOCATION:210 fizyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:matematyka
+DTSTART;TZID=Europe/Warsaw:20261201T100000
+DTEND;TZID=Europe/Warsaw:20261201T104500
+DTSTAMP:20261201T090000Z
+UID:1a44b2a01fdeda8e@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 4
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:matematyka
+DTSTART;TZID=Europe/Warsaw:20261202T100000
+DTEND;TZID=Europe/Warsaw:20261202T104500
+DTSTAMP:20261202T090000Z
+UID:f37bd70d06c1fa7a@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 4
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261203T100000
+DTEND;TZID=Europe/Warsaw:20261203T104500
+DTSTAMP:20261203T090000Z
+UID:5564dc70c1a4aaae@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wabich Joanna\nKlasa/grupa: 3 PT a2\nNumer lekcji:
+  4
+LOCATION:018 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:informatyka
+DTSTART;TZID=Europe/Warsaw:20261204T100000
+DTEND;TZID=Europe/Warsaw:20261204T104500
+DTSTAMP:20261204T090000Z
+UID:510b7e068b408fa8@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 4
+LOCATION:018 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie obiektowe
+DTSTART;TZID=Europe/Warsaw:20261130T110000
+DTEND;TZID=Europe/Warsaw:20261130T114500
+DTSTAMP:20261130T100000Z
+UID:c203cc068871f00b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
+ i: 5
+LOCATION:016 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:informatyka
+DTSTART;TZID=Europe/Warsaw:20261202T110000
+DTEND;TZID=Europe/Warsaw:20261202T114500
+DTSTAMP:20261202T100000Z
+UID:94075541529511c5@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 5
+LOCATION:015 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język angielski
+DTSTART;TZID=Europe/Warsaw:20261203T110000
+DTEND;TZID=Europe/Warsaw:20261203T114500
+DTSTAMP:20261203T100000Z
+UID:5bf51519e79d468f@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Kudlińska Monika\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 5
+LOCATION:02 przedmioty zawodowe
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i administrowanie bazami danych
+DTSTART;TZID=Europe/Warsaw:20261204T110000
+DTEND;TZID=Europe/Warsaw:20261204T114500
+DTSTAMP:20261204T100000Z
+UID:e83faeafcc9f4f97@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wojtyniak Łukasz\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 5
+LOCATION:016 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji desktopowych
+DTSTART;TZID=Europe/Warsaw:20261130T115500
+DTEND;TZID=Europe/Warsaw:20261130T124000
+DTSTAMP:20261130T105500Z
+UID:833b2500545d67cb@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stolarski Damian\nKlasa/grupa: 3 PT a2\nNumer lekc
+ ji: 6
+LOCATION:014 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język polski
+DTSTART;TZID=Europe/Warsaw:20261202T115500
+DTEND;TZID=Europe/Warsaw:20261202T124000
+DTSTAMP:20261202T105500Z
+UID:c719ea743e606263@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Marcinkowska Renata\nKlasa/grupa: 3 PT\nNumer lekc
+ ji: 6
+LOCATION:108 językowa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i inżynieria oprogramowania
+DTSTART;TZID=Europe/Warsaw:20261203T115500
+DTEND;TZID=Europe/Warsaw:20261203T124000
+DTSTAMP:20261203T105500Z
+UID:4b29d1bda026b1f2@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Jurczyk-Maciuszonek Magdalena\nKlasa/grupa: 3 PT a
+ 2\nNumer lekcji: 6
+LOCATION:24 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i administrowanie bazami danych
+DTSTART;TZID=Europe/Warsaw:20261204T115500
+DTEND;TZID=Europe/Warsaw:20261204T124000
+DTSTAMP:20261204T105500Z
+UID:830e08df9b63c4ad@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wojtyniak Łukasz\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 6
+LOCATION:016 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji desktopowych
+DTSTART;TZID=Europe/Warsaw:20261130T130000
+DTEND;TZID=Europe/Warsaw:20261130T134500
+DTSTAMP:20261130T120000Z
+UID:a6a49c60bbcfda5c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stolarski Damian\nKlasa/grupa: 3 PT a2\nNumer lekc
+ ji: 7
+LOCATION:014 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:programowanie aplikacji internetowych
+DTSTART;TZID=Europe/Warsaw:20261202T130000
+DTEND;TZID=Europe/Warsaw:20261202T134500
+DTSTAMP:20261202T120000Z
+UID:10ee7f1574de567d@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Wabich Joanna\nKlasa/grupa: 3 PT a2\nNumer lekcji:
+  7
+LOCATION:102a prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:projektowanie i inżynieria oprogramowania
+DTSTART;TZID=Europe/Warsaw:20261203T130000
+DTEND;TZID=Europe/Warsaw:20261203T134500
+DTSTAMP:20261203T120000Z
+UID:75d18511e4d46641@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Jurczyk-Maciuszonek Magdalena\nKlasa/grupa: 3 PT a
+ 2\nNumer lekcji: 7
+LOCATION:24 prac inform
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:matematyka
+DTSTART;TZID=Europe/Warsaw:20261204T130000
+DTEND;TZID=Europe/Warsaw:20261204T134500
+DTSTAMP:20261204T120000Z
+UID:c4e576e5dac96511@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 7
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:matematyka
+DTSTART;TZID=Europe/Warsaw:20261130T140500
+DTEND;TZID=Europe/Warsaw:20261130T145000
+DTSTAMP:20261130T130500Z
+UID:5a53987f6436310b@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 8
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zajęcia z wychowawcą
+DTSTART;TZID=Europe/Warsaw:20261202T140500
+DTEND;TZID=Europe/Warsaw:20261202T145000
+DTSTAMP:20261202T130500Z
+UID:935354c25063a57d@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Natunewicz Marta\nKlasa/grupa: 3 PT\nNumer lekcji:
+  8
+LOCATION:22 prac foto/ogólna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:chemia
+DTSTART;TZID=Europe/Warsaw:20261203T140500
+DTEND;TZID=Europe/Warsaw:20261203T145000
+DTSTAMP:20261203T130500Z
+UID:7b50739e29c753c8@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Janeba-Bartoszewicz Edyta\nKlasa/grupa: 3 PT\nNume
+ r lekcji: 8
+LOCATION:211 chemiczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wychowanie fizyczne
+DTSTART;TZID=Europe/Warsaw:20261204T140500
+DTEND;TZID=Europe/Warsaw:20261204T145000
+DTSTAMP:20261204T130500Z
+UID:1996211616e05985@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Konieczny Maciej\nKlasa/grupa: 3 PT\nNumer lekcji:
+  8
+LOCATION:sala gimnastyczna_1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:matematyka
+DTSTART;TZID=Europe/Warsaw:20261130T150000
+DTEND;TZID=Europe/Warsaw:20261130T154500
+DTSTAMP:20261130T140000Z
+UID:39759c236b2e0f65@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Stasiak Marcin\nKlasa/grupa: 3 PT\nNumer lekcji: 9
+LOCATION:206 matematyczna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wychowanie fizyczne
+DTSTART;TZID=Europe/Warsaw:20261202T150000
+DTEND;TZID=Europe/Warsaw:20261202T154500
+DTSTAMP:20261202T140000Z
+UID:efb8967e80f72aae@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Konieczny Maciej\nKlasa/grupa: 3 PT\nNumer lekcji:
+  9
+LOCATION:siłownia_2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język angielski
+DTSTART;TZID=Europe/Warsaw:20261203T150000
+DTEND;TZID=Europe/Warsaw:20261203T154500
+DTSTAMP:20261203T140000Z
+UID:6d54f61e38048e47@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Kudlińska Monika\nKlasa/grupa: 3 PT a2\nNumer lek
+ cji: 9
+LOCATION:022 multimedialna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:religia
+DTSTART;TZID=Europe/Warsaw:20261204T150000
+DTEND;TZID=Europe/Warsaw:20261204T154500
+DTSTAMP:20261204T140000Z
+UID:03147406a247b003@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Nauczyciel: Proch Jakub\nKlasa/grupa: 3 3PT r1 3IT r1\nNumer l
+ ekcji: 9
+LOCATION:104 polonistyczna
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
