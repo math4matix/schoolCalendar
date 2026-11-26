@@ -69,17 +69,6 @@ LOCATION:102b prac inform
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:język hiszpański
-DTSTART;TZID=Europe/Warsaw:20261126T081000
-DTEND;TZID=Europe/Warsaw:20261126T085500
-DTSTAMP:20261126T071000Z
-UID:1a0debed9c305f8c@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
- PT h1\nNumer lekcji: 2
-LOCATION:109 matematyczna
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:język polski
 DTSTART;TZID=Europe/Warsaw:20261127T081000
 DTEND;TZID=Europe/Warsaw:20261127T085500
@@ -120,17 +109,6 @@ UID:e6fab98972c982df@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Telicki Andrzej\nKlasa/grupa: 3 PT a2\nNumer lekcj
  i: 3
 LOCATION:028 prac sieci
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:język hiszpański
-DTSTART;TZID=Europe/Warsaw:20261126T090500
-DTEND;TZID=Europe/Warsaw:20261126T095000
-DTSTAMP:20261126T080500Z
-UID:dc450da1a2a59ebd@zslpoznan.mobidziennik-calendar
-DESCRIPTION:Nauczyciel: Mandelt Bogumiła\nKlasa/grupa: 3 2ETT h1 2FT h2 2
- PT h1\nNumer lekcji: 3
-LOCATION:109 matematyczna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -373,8 +351,26 @@ DTEND;TZID=Europe/Warsaw:20261125T104500
 DTSTAMP:20261125T090000Z
 UID:aee365b9bdb69e76@zslpoznan.mobidziennik-calendar
 DESCRIPTION:Nauczyciel: Adamek Anna\nKlasa/grupa: 3 PT\nNumer lekcji: 4
-LOCATION:018 prac inform
+LOCATION:109 matematyczna
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język hiszpański
+DTSTART;TZID=Europe/Warsaw:20261126T081000
+DTEND;TZID=Europe/Warsaw:20261126T085500
+DTSTAMP:20261126T071000Z
+UID:1a0debed9c305f8c@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 2ETT h1 2FT h2 2PT h1\nNumer lekcji: 2
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:język hiszpański
+DTSTART;TZID=Europe/Warsaw:20261126T090500
+DTEND;TZID=Europe/Warsaw:20261126T095000
+DTSTAMP:20261126T080500Z
+UID:dc450da1a2a59ebd@zslpoznan.mobidziennik-calendar
+DESCRIPTION:Klasa/grupa: 3 2ETT h1 2FT h2 2PT h1\nNumer lekcji: 3
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:programowanie aplikacji internetowych
